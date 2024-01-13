@@ -2,8 +2,12 @@
     "name": "kamil/sphp",
     "autoload": {
         "psr-4": {
-            "Kamil\\Sphp\\": "src/"
-        }
+            "Framework\\": "Framework",
+            "App\\": "App"
+        },
+        "files": [
+            "App/routes.php"
+        ]
     },
     "require": {}
 }
