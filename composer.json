@@ -1,0 +1,9 @@
+{
+    "name": "kamil/sphp",
+    "autoload": {
+        "psr-4": {
+            "Kamil\\Sphp\\": "src/"
+        }
+    },
+    "require": {}
+}
