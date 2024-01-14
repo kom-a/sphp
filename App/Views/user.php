@@ -1,0 +1,1 @@
+<h1> User <?=$data['user']->name?></h1>
